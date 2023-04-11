@@ -37,21 +37,6 @@ a::before{
 
 }
 
-#button{
-    display: inline-block;
-    background-color: #2784B0;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0px #000;
-    margin-right: 0px;
-    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
 
-} 
-
-#button:hover{
-    background-color: #247AA3;
-    
-    transform: scale(1.08);
-
-}
 
  
