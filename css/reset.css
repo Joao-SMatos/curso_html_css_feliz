@@ -1,14 +1,15 @@
 body{
     margin: 0;
+    font-family: "Fira code";
     
-    
-
 }
-h1 {
+
+h1, h2 {
     margin: 0;
 }
 
-h2{
-    margin: 0;
+button{
+    border: none;
+    font-family: inherit;
 
 }
